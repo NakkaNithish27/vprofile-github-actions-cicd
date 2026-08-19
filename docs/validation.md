@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/505aee42-6130-45e2-a202-9537ae5bd900" />
+
+
 ## 1. Validation Overview
 
 This document defines how the VProfile GitHub Actions CI/CD pipeline should be validated from source change through container image publication.
