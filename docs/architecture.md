@@ -2,6 +2,8 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa2795a5-0154-4049-b546-56fde0176e88" />
+
 ## 1. Architecture Overview
 
 This project implements a GitHub Actions CI/CD workflow around the **VProfile Java application workload**.
