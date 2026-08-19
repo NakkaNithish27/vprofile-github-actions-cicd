@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2533c8e7-109a-4461-b924-8f7f211435de" />
+
+
 ## 1. Purpose
 
 This document defines the boundaries of the VProfile GitHub Actions CI/CD project and identifies logical improvements that could extend the current implementation.
