@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ef1dd740-1596-4c2c-96ce-98c33f29c15f" />
+
+
 ## 1. Implementation Overview
 
 The implementation evolved incrementally from a basic GitHub Actions workflow into a CI/CD pipeline capable of validating the VProfile application workload, performing vulnerability scanning, building a Docker image, and publishing that image to Amazon ECR.
