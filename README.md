@@ -2,6 +2,8 @@
 
 A GitHub Actions CI/CD pipeline that automates application build and validation, performs vulnerability scanning, and gates Docker image publication to Amazon ECR.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a0ff164-bcb6-4362-8fee-f3828c528e24" />
+
 ---
 
 ## Overview
